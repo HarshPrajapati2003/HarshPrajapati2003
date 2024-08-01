@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
 <h3 align="center">Experienced Full Stack Web Developer with hands-on project experience. Skilled in building scalable web apps with engaging UIs. Passionate about learning new tech and contributing to open-source projects.</h3>
-<img src="https://camo.githubusercontent.com/e1870bc24ce310b71a0e7a9d45bedb8b0826ce4e53f79eefca6b0cd56802c8c4/68747470733a2f2f6d6f6c646563682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f39363134332d646576656c6f7065722e676966" alt="Harsh Prajapati" width="400" align="right">
+<img src="https://camo.githubusercontent.com/e1870bc24ce310b71a0e7a9d45bedb8b0826ce4e53f79eefca6b0cd56802c8c4/68747470733a2f2f6d6f6c646563682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f39363134332d646576656c6f7065722e676966" alt="Harsh Prajapati" width="200" align="right">
 
 - 💬 Ask me about **Full stack development (MERN)**
 
